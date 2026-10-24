@@ -1,0 +1,159 @@
+{
+ "Greetings": [
+  {
+   "en": "Hello",
+   "kn": "ನಮಸ್ಕಾರ",
+   "pr": "Namaskara"
+  },
+  {
+   "en": "How are you?",
+   "kn": "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+   "pr": "Neevu hegiddiri?"
+  },
+  {
+   "en": "Thank you",
+   "kn": "ಧನ್ಯವಾದಗಳು",
+   "pr": "Dhanyavaadagalu"
+  },
+  {
+   "en": "Please",
+   "kn": "ದಯವಿಟ್ಟು",
+   "pr": "Dayavittu"
+  },
+  {
+   "en": "Yes",
+   "kn": "ಹೌದು",
+   "pr": "Haudu"
+  },
+  {
+   "en": "No",
+   "kn": "ಇಲ್ಲ",
+   "pr": "Illa"
+  }
+ ],
+ "Directions": [
+  {
+   "en": "Where is the bus stand?",
+   "kn": "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+   "pr": "Bus nildana ellide?"
+  },
+  {
+   "en": "Go straight",
+   "kn": "ನೇರವಾಗಿ ಹೋಗಿ",
+   "pr": "Neravaagi hogi"
+  },
+  {
+   "en": "Turn left",
+   "kn": "ಎಡಕ್ಕೆ ತಿರುಗಿ",
+   "pr": "Edakke tirugi"
+  },
+  {
+   "en": "Turn right",
+   "kn": "ಬಲಕ್ಕೆ ತಿರುಗಿ",
+   "pr": "Balakke tirugi"
+  },
+  {
+   "en": "Is it far?",
+   "kn": "ಇದು ದೂರವೇ?",
+   "pr": "Idu dooravé?"
+  }
+ ],
+ "Food & Shopping": [
+  {
+   "en": "How much is this?",
+   "kn": "ಇದು ಎಷ್ಟು?",
+   "pr": "Idu eshtu?"
+  },
+  {
+   "en": "Water, please",
+   "kn": "ನೀರು ಕೊಡಿ",
+   "pr": "Neeru kodi"
+  },
+  {
+   "en": "Too expensive",
+   "kn": "ತುಂಬಾ ದುಬಾರಿ",
+   "pr": "Tumba dubaari"
+  },
+  {
+   "en": "Vegetarian food",
+   "kn": "ಸಸ್ಯಾಹಾರಿ ಊಟ",
+   "pr": "Sasyaahaari oota"
+  }
+ ],
+ "Temple & Pilgrimage": [
+  {
+   "en": "Where is the temple?",
+   "kn": "ದೇವಸ್ಥಾನ ಎಲ್ಲಿದೆ?",
+   "pr": "Devasthana ellide?"
+  },
+  {
+   "en": "When does darshan open?",
+   "kn": "ದರ್ಶನ ಯಾವಾಗ ಶುರು?",
+   "pr": "Darshana yaavaaga shuru?"
+  },
+  {
+   "en": "Remove footwear here",
+   "kn": "ಇಲ್ಲಿ ಚಪ್ಪಲಿ ಬಿಡಿ",
+   "pr": "Illi chappali bidi"
+  },
+  {
+   "en": "Where is prasad given?",
+   "kn": "ಪ್ರಸಾದ ಎಲ್ಲಿ ಕೊಡುತ್ತಾರೆ?",
+   "pr": "Prasaada elli koduttaare?"
+  }
+ ],
+ "Hospital & Emergency": [
+  {
+   "en": "I need a doctor",
+   "kn": "ನನಗೆ ಡಾಕ್ಟರ್ ಬೇಕು",
+   "pr": "Nanage doctor beku"
+  },
+  {
+   "en": "Help me, please",
+   "kn": "ದಯವಿಟ್ಟು ಸಹಾಯ ಮಾಡಿ",
+   "pr": "Dayavittu sahaaya maadi"
+  },
+  {
+   "en": "Where is the hospital?",
+   "kn": "ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?",
+   "pr": "Aaspatre ellide?"
+  },
+  {
+   "en": "Call the police",
+   "kn": "ಪೊಲೀಸರನ್ನು ಕರೆಯಿರಿ",
+   "pr": "Poleesarannu kareyiri"
+  }
+ ],
+ "Numbers": [
+  {
+   "en": "One",
+   "kn": "ಒಂದು",
+   "pr": "Ondu"
+  },
+  {
+   "en": "Two",
+   "kn": "ಎರಡು",
+   "pr": "Eradu"
+  },
+  {
+   "en": "Three",
+   "kn": "ಮೂರು",
+   "pr": "Mooru"
+  },
+  {
+   "en": "Five",
+   "kn": "ಐದು",
+   "pr": "Aidu"
+  },
+  {
+   "en": "Ten",
+   "kn": "ಹತ್ತು",
+   "pr": "Hattu"
+  },
+  {
+   "en": "Hundred",
+   "kn": "ನೂರು",
+   "pr": "Nooru"
+  }
+ ]
+}
